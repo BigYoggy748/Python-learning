@@ -1,0 +1,6 @@
+print("hello world")
+print(40 + 2)
+print(43-1)
+print(6*7)
+print(6**2+6)
+print(1_000_000)
